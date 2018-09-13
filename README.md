@@ -10,7 +10,7 @@ git add<filename>           Add file to a commit.
 git commit -m "message"     Commit changes.
 git remote -v               Check "remote" settings.
 git log                     Show history of commites.
-git log --online
+git log --oneline
 git push prigin master      Push changes from local to remote.
 git status                  View current state of repository.
 ```
