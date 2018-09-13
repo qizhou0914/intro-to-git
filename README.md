@@ -11,7 +11,7 @@ git commit -m "message"     Commit changes.
 git remote -v               Check "remote" settings.
 git log                     Show history of commites.
 git log --oneline
-git push prigin master      Push changes from local to remote.
+git push origin master      Push changes from local to remote.
 git status                  View current state of repository.
 ```
 
