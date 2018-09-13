@@ -3,6 +3,7 @@ Notes taken during introduction to Git tutorial.
 
 ## Useful git commands
 
+```
 git config<options>         Change git settings.\
 git clone <repository-name> Copy repository onto computer.\
 git add<filename>           Add file to a commit.\
@@ -12,6 +13,7 @@ git log                     Show history of commites.\
 git log --online\
 git push prigin master      Push changes from local to remote.\
 git status                  View current state of repository.\
+```
 
 ## Useful website
 
